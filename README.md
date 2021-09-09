@@ -1,7 +1,7 @@
 # myfirstfork
 Toy example for teaching git remotes and forks. 
 Christopher was here
-Kureha was also here :)
+Kureha Yamaguchi was also here :)
 A new commit!
 Kenji is here.
 Christopher was here AGAIN
