@@ -1,7 +1,7 @@
-a = 1
-b = 1
+c = 1
+d = 1
 
-def onePlusOne(a: int, b: int):
-    return a + b
+def onePlusOne(c: int, d: int):
+    return c + d
 
-print(onePlusOne(a, b))
+print(onePlusOne(c, d))
