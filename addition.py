@@ -1,5 +1,6 @@
-e = 4.5
-f = 5.0
+# ask the user to enter the values of e and f
+e = float(input("Enter the value of e: "))
+f = float(input("Enter the value of f: "))
 
 def addition(e: float, f: float):
     return e + f
